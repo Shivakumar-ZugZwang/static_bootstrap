@@ -1,0 +1,6 @@
+body{
+    background: url(../img.jpg) no-repeat center center fixed;
+    background-size: cover;
+    color: #fff;
+    margin: 20px;
+}
